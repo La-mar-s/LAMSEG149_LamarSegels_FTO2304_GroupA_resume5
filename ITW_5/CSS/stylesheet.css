@@ -127,6 +127,11 @@ section {
     padding: 100px 20vw;
 }
 
+footer {
+    padding: 25px;
+}
+
+
 .blue {
     background: #3c31dd;
 }
